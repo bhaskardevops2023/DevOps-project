@@ -1,0 +1,1 @@
+This Repository used for Practicing Terraform through Automation and CI/CD pipline implementation using Jenkins.
